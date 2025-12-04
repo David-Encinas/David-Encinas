@@ -24,17 +24,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<div align="center">
-
-![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=David-Encinas&show_icons=true&theme=transparent)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=David-Encinas&layout=compact&theme=transparent)
-
-</div>
-
----
-
 ### 📫 Contact
 - **Website:** https://www.davidencinas.net 
 
