@@ -10,7 +10,8 @@
 
 ### 🔧 Tech I Work With
 <div>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,html,css,git" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,html,css,git" />
+  <img height="48" src="https://mui.com/static/logo.png" alt="MUI" />
 </div>
 
 ---
@@ -26,9 +27,9 @@
 ### 📊 GitHub Stats
 <div align="center">
 
-![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidencinas&show_icons=true&theme=transparent)
+![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=David-Encinas&show_icons=true&theme=transparent)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidencinas&layout=compact&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=David-Encinas&layout=compact&theme=transparent)
 
 </div>
 
