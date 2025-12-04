@@ -1,0 +1,49 @@
+<h1 align="center">👋 Hi, I'm David</h1>
+<h3 align="center">Front-End Developer • JavaScript | TypeScript | React | MERN</h3>
+
+<p align="center">
+  I build clean, fast, and intuitive web experiences.  
+  Focused on UI/UX, performance, and writing code that stays maintainable.
+</p>
+
+---
+
+### 🔧 Tech I Work With
+<div>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,html,css,git" />
+</div>
+
+---
+
+### 🚀 What I'm Working On
+- Improving my full-stack MERN apps  
+- Exploring advanced React patterns  
+- Polishing UI components + animations  
+- Building tools that make dev life easier  
+
+---
+
+### 📊 GitHub Stats
+<div align="center">
+
+![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidencinas&show_icons=true&theme=transparent)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidencinas&layout=compact&theme=transparent)
+
+</div>
+
+---
+
+### 📫 Contact
+- **Website:** https://www.davidencinas.net 
+
+---
+
+### ✨ Fun Facts
+- Always tinkering with UI/UX  
+- Dark mode enthusiast  
+- Enjoy experimenting with new libraries and performance tricks  
+
+---
+
+⭐ _Thanks for stopping by! Feel free to explore my repos or reach out._
