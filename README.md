@@ -10,8 +10,7 @@
 
 ### 🔧 Tech I Work With
 <div>
-  <img src="[https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,html,css,git](https://skillicons.dev/icons?i=html,css,scss,js,ts,npm,git,visualstudio,vue,react,vite,materialui,bootstrap,jquery,nodejs,express,mongodb,firebase,figma,pug)" />
-  <img height="48" src="https://mui.com/static/logo.png" alt="MUI" />
+  <img src="https://skillicons.dev/icons?i=html,css,scss,js,ts,npm,git,visualstudio,vue,react,vite,materialui,bootstrap,jquery,nodejs,express,mongodb,firebase,figma,pug" />  
 </div>
 
 ---
