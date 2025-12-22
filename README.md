@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm David</h1>
-<h3 align="center">Front-End Developer • JavaScript | TypeScript | React | MERN</h3>
+<h3 align="center">MERN Developer | Front-End Focus | UI/UX Enthusiast</h3>
 
 <p align="center">
   I build clean, fast, and intuitive web experiences.  
@@ -10,8 +10,13 @@
 
 ### 🔧 Tech I Work With
 <div style="text-align: center;">
-  <img src="https://skillicons.dev/icons?i=html,css,scss,js,ts,npm,git,github,bitbucket,visualstudio,postman,docker,vue,react,vite,materialui,bootstrap,jquery,nodejs,express,mongodb,firebase,figma,pug" alt="skills" />
+  <img 
+    src="https://skillicons.dev/icons?i=html,css,scss,js,ts,npm,git,github,bitbucket,visualstudio,postman,docker,vue,react,vite,materialui,bootstrap,jquery,nodejs,express,mongodb,firebase,figma,pug" 
+    alt="skills" 
+    style="max-width: 100%; height: auto;"
+  />
 </div>
+
 
 ---
 
