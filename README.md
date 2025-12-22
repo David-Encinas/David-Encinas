@@ -10,8 +10,12 @@
 
 ### 🔧 Tech I Work With
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,scss,js,ts,npm,git,github,bitbucket,visualstudio,postman,docker,vue,react,vite,materialui,bootstrap,jquery,nodejs,express,mongodb,firebase,figma,pug" alt="skills" />
+  <img
+    src="https://skillicons.dev/icons?i=html,css,scss,js,ts,pug,npm,git,github,bitbucket,visualstudio,postman,figma,vue,react,vite,materialui,bootstrap,jquery,nodejs,express,mongodb,firebase,docker,linux&perline=6"
+    alt="skills"
+  />
 </p>
+
 
 
 
