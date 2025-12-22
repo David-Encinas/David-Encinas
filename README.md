@@ -10,7 +10,7 @@
 
 ### 🔧 Tech I Work With
 <div>
-  <img src="https://skillicons.dev/icons?i=html,css,scss,js,ts,npm,git,github,bitbucket,visualstudio,postman,docker,vue,react,vite,materialui,bootstrap,jquery,nodejs,express,mongodb,firebase,figma,pug alt="skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,scss,js,ts,npm,git,github,bitbucket,visualstudio,postman,docker,vue,react,vite,materialui,bootstrap,jquery,nodejs,express,mongodb,firebase,figma,pug" alt="skills" />
 </div>
 
 ---
