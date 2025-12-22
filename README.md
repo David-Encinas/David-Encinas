@@ -9,13 +9,10 @@
 ---
 
 ### 🔧 Tech I Work With
-<div style="text-align: center;">
-  <img 
-    src="https://skillicons.dev/icons?i=html,css,scss,js,ts,npm,git,github,bitbucket,visualstudio,postman,docker,vue,react,vite,materialui,bootstrap,jquery,nodejs,express,mongodb,firebase,figma,pug" 
-    alt="skills" 
-    style="max-width: 100%; height: auto;"
-  />
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,scss,js,ts,npm,git,github,bitbucket,visualstudio,postman,docker,vue,react,vite,materialui,bootstrap,jquery,nodejs,express,mongodb,firebase,figma,pug" alt="skills" />
+</p>
+
 
 
 ---
