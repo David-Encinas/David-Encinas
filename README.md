@@ -1,9 +1,14 @@
 <h1 align="center">👋 Hi, I'm David</h1>
-<h3 align="center">MERN Developer | Front-End Focus | UI/UX Enthusiast</h3>
+<h3 align="center">Frontend Engineer | UI Specialist | UI/UX Enthusiast | MERN Developer</h3>
 
 <p align="center">
-  I build clean, fast, and intuitive web experiences.  
-  Focused on UI/UX, performance, and writing code that stays maintainable.
+  Driven, self-taught Frontend Developer with a proven track record of engineering and 
+  maintaining user-facing features across modern web, mobile, and legacy applications in 
+  high-availability production environments. Primary expertise lies in building responsive, scalable 
+  interfaces using React and TypeScript, while ensuring long-term code maintainability. Exceptional 
+  at stabilizing and modernizing legacy architectures (Backbone.js, jQuery, Perl) without disrupting 
+  client operations. Possesses supporting full-stack knowledge in Node.js/Express.js environments, 
+  offering deep technical versatility for cross-functional product teams. 
 </p>
 
 ---
