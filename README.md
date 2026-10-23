@@ -15,7 +15,7 @@
 ### 🔧 Tech Stack & Tools
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=ts,js,react,vue,redux,threejs,mui,html,css,scss,bootstrap,vite,gulp,nodejs,express,mongodb,aws,docker,linux,nginx,git,github,Postman,figma&perline=8"
+    src="https://skillicons.dev/icons?i=ts,js,react,vue,redux,threejs,mui,html,css,scss,bootstrap,vite,gulp,nodejs,express,mongodb,aws,docker,linux,nginx,git,github,postman,figma&perline=8"
     alt="Tech Stack"
   />
 </p>
