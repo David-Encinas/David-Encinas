@@ -27,11 +27,11 @@
 
 ---
 
-### 🚀 Featured Production Applications *(Private Repositories — Live in Production)*
+### 🚀 Featured Production Full-Stack Applications *(Private Repositories — Live in Production)*
 
 - **[My Class Bridge](https://myclassbridge.com)** — *Multilingual K-12 Teacher–Parent Communication SaaS*
   - Architected as a **TypeScript Monorepo** (`React 18 PWA`, `Express`, `MongoDB/Mongoose`) featuring **100% shared client/server Zod runtime validation** to eliminate API schema drift, zero-trust classroom RBAC (`httpOnly` cookies, Helmet CSP/HSTS, rate limiting), and self-hosted **LibreTranslate in Docker** for privacy-first translation across 5 languages (`EN`, `ES`, `FR`, `PT`, `HT`).
-- **[Collaborative Workspace & Shared Task Platform](https://todo.davidencinas.net)** — *Multi-User Task & RBAC PWA*
+- **[Collaborative Workspace & Team Project Platform](https://todo.davidencinas.net)** — *Multi-User Project & RBAC PWA*
   - Full-stack collaborative workspace (`React 18`, `TypeScript`, `MUI`, `Node.js`, `Express`, `MongoDB`) featuring **Google OAuth 2.0 + JWT authentication**, **3-tier shared list RBAC** (`Owner`, `Editor`, `Viewer`), token-based email invitations, DigitalOcean Spaces CDN avatar uploads, Today/Upcoming views, JSON-Schema category creation, and **Zod discriminated union validation**.
 - **[Devs Tool box](https://toolbox.davidencinas.net)** & **[3D Interactive Flight Portfolio](https://game.davidencinas.net)**
   - Offline-first developer utilities PWA (`React 18`, `TypeScript`) paired with a rate-limited **Node.js/Express cryptographic microservice**, a custom portfolio CMS (`/admin`), and a **60fps Three.js / WebGL quaternion space-flight experience** bridged to React 18 via `useSyncExternalStore` — deployed across **AWS (Lightsail with Linux, Nginx, Docker & GitHub webhook CI/CD)** and **DigitalOcean App Platform**.
@@ -40,7 +40,7 @@
 
 ### 💡 Key Engineering Challenges I Solve
 - **Untangling Legacy State & UI Bottlenecks:** Refactoring brittle Redux boilerplate to **Zustand** and **React Query (TanStack Query)** while incrementally migrating standalone Vue and legacy React modules to strict **React 18 & TypeScript**.
-- **Eliminating Manual Event Operations:** Building self-service data-organization and filtering tools inside multi-tenant conference portals for **100+ annual conferences**.
+- **Enterprise Schedule & Content Orchestration:** Building self-service data-organization and scheduling tools inside multi-tenant conference portals so organizers can administer, sort, and schedule event sessions and scientific abstracts in real time across **100+ annual conferences**.
 - **Scaling High-Volume Mobile Releases:** Standardizing asset pipelines and **Ionic / Cordova / Capacitor** build scripts across hundreds of iOS and Android App Store / Google Play deployments.
 - **End-to-End Type Safety & Zero-Trust SaaS Security:** Sharing **Zod** schemas across TypeScript monorepo workspaces so client forms and backend controllers never drift out of sync.
 
